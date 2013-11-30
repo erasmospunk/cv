@@ -1,5 +1,5 @@
 # Dzegoutanis Giannis
-Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. My email is yiannis.dzegoutanis@gmail.com, you can follow me on Twitter (@erasmospunk), check out my Github projects (https://github.com/erasmospunk) or visit my blog www.erasmospunk.com. Born on 1984.
+Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. I started programming from when I was 15 years old and my first programming language was C. My email is yiannis.dzegoutanis@gmail.com, you can follow me on Twitter (@erasmospunk), check out my Github projects (https://github.com/erasmospunk) or visit my blog www.erasmospunk.com. Born on 1984.
 
 ## Commercial work experience
 - November 2011 to present - Senior software engineer and shareholder of map2app.com
