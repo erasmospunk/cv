@@ -41,8 +41,8 @@ English fluent (proficiency), Russian advanced, Greek fluent, Italian intermedia
 - Data structures & presentation: XML, (X)HTML, JSON, XSL, CSS.
 
 #### Frameworks and APIs
-- Web: jQuery (and Mobile), AngularJS, Google Maps API.
-- Server side: Node.js, AppEngine, JBoss 4 & 5, Wicket, RESTlet, Servlets, JSP, JSF.
+- Web: jQuery (and Mobile), AngularJS, Google Maps API, AJAX techniques.
+- Server side: Node.js, AppEngine, Wordpress plugins, JBoss 4 & 5, Wicket, RESTlet, Servlets, JSP, JSF.
 - Databases: JDO, JDBC, Hibernate, MySQL, SQLite, MongoDB and Google Datastore (NoSQL).
 - Java: J2SE, J2EE, JUnit.
 - Security: SSL, TLS, Crypto API, certificates for HTTPS.
@@ -60,3 +60,7 @@ Mikrotik RouterBOARD, Ubiquiti Routerstation (OpenWRT), microcontrollers (Atmel 
 
 ## Hobbies and Interests
 Artificial intelligence, amateur computer networks (AWMN.net), microcontroller programming (Arduino), game programming, photography, image processing, design, martial arts, travel, reading books, music, psychology and philosophy.
+
+***
+
+<div class="center"><img src="glider.png" alt="glider" style="display: block;margin: 4em auto 0 auto;"></div>
