@@ -1,4 +1,5 @@
 # Dzegoutanis Giannis
+##### Computer Scientist - Software Engineer
 Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. I started programming when I was 15 years old and my first programming language was C. After all these years I developed a strong capacity to solve problems and to learn at blazing-fast speeds. My email is <yiannis.dzegoutanis@gmail.com>, you can follow me on Twitter ([@erasmospunk](https://twitter.com/erasmospunk)), check out [my Github projects](https://github.com/erasmospunk) or visit [my blog](http://www.erasmospunk.com). Born in 1984.
 
 ***
