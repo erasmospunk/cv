@@ -5,6 +5,7 @@ Hi, I am a professional software developer based in the beautiful city of Bologn
 ***
 
 ## Commercial work experience
+- December 2013 to present - Resume consultant freelancing. Some projects include debugging of asynchronous code and websockets in node.js code. Open source contributions to Bitcoin projects (Stratum protocol, JSONRPC)
 - November 2011 to present - Senior software engineer and shareholder of [map2app.com](http://www.map2app.com/)
 Develpment of HTML 5 and Android mobile applications, server-side development and administration, data analytics.
 - May 2011 to November 2011 - Freelance Software Engineer. Android application for [comuni-chiamo.com](http://comuni-chiamo.com/) project. Server setup and tool integration for map2app.com
@@ -47,6 +48,7 @@ English fluent (proficiency), Russian advanced, Greek fluent, Italian intermedia
 - Databases: JDO, JDBC, Hibernate, MySQL, SQLite, MongoDB and Google Datastore (NoSQL).
 - Java: J2SE, J2EE, JUnit.
 - Security: SSL, TLS, Crypto API, certificates for HTTPS.
+- Bitcoin: Stratum protocol and the wallet JSONRPC. Altcoins.
 
 #### Tools
 - IDE: IntelliJ IDEA, Eclipse, Sublime Text, Vim, plain-ol-terminal.
