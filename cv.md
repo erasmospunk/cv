@@ -10,10 +10,10 @@ Hi, I am a professional software developer based in the beautiful city of Bologn
 Develpment of HTML 5 and Android mobile applications, server-side development and administration, data analytics.
 - May 2011 to November 2011 - Freelance Software Engineer. Android application for [comuni-chiamo.com](http://comuni-chiamo.com/) project. Server setup and tool integration for map2app.com
 - November 2010 to May 2011 - Java Software Engineer (telecommunications and web design) Innova-sa Athens, Greece. Web GUI design, telecommunication protocols implementation (SMPP), web service API, application server (JBoss) and database setup for a major mobile telecommunication client in Bulgaria.
-- January 2009 to November 2010 - Freelance software Engineer. Web site redesign; graphics, HTML code, JavaScript, PHP backend, photography of [Espace Musical](www.espace-musical.gr).
+- January 2009 to November 2010 - Freelance software Engineer. Web site redesign; graphics, HTML code, JavaScript, PHP backend, photography of [Espace Musical](http://www.espace-musical.gr).
 (career pause due to resume of studies)
 - April 2008 to January 2009 - Java Software Engineer for a helpdesk management project Calipso. Abiss.gr Athens, Greece.
-- March 2007 to April 2008 - C++ Software Developer for the European project [Humabio](www.humabio-eu.org). NetSmart S.A Athens, Greece.
+- March 2007 to April 2008 - C++ Software Developer for the European project [Humabio](http://www.humabio-eu.org). NetSmart S.A Athens, Greece.
 - 2005-2007 - Freelance programming mainly in academics (C, C++ and Java).
 
 ***
