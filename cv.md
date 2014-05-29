@@ -1,12 +1,13 @@
 # Dzegoutanis Giannis
 ##### Computer Scientist - Software Engineer
-Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. I started programming when I was 15 years old and my first programming language was C. After all these years I developed a strong capacity to solve problems and to learn at blazing-fast speeds. My email is <yiannis.dzegoutanis@gmail.com>, you can follow me on Twitter ([@erasmospunk](https://twitter.com/erasmospunk)), check out [my Github projects](https://github.com/erasmospunk) or visit [my blog](http://www.erasmospunk.com). Born in 1984.
+Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. I started programming when I was 15 years old and my first programming language was C. After all these years I developed a strong capacity to solve problems and to learn at blazing-fast speeds. In 2014 I became an open source developer in the field of cryptocurrencies. My email is <yiannis.dzegoutanis@gmail.com>, you can follow me on Twitter ([@erasmospunk](https://twitter.com/erasmospunk)), check out [my Github projects](https://github.com/erasmospunk) or visit [my blog](http://www.erasmospunk.com). Born in 1984.
 
 ***
 
 ## Commercial work experience
+- April 2014 to present - Funding coinomi.com, a cryptocurrency wallet. Full time open source developer.
 - December 2013 to present - Resume consultant freelancing. Some projects include debugging of asynchronous code and websockets in node.js code. Open source contributions to Bitcoin projects (Stratum protocol, JSONRPC)
-- November 2011 to present - Senior software engineer and shareholder of [map2app.com](http://www.map2app.com/)
+- November 2011 to April 2014 - Senior software engineer and shareholder of [map2app.com](http://www.map2app.com/)
 Develpment of HTML 5 and Android mobile applications, server-side development and administration, data analytics.
 - May 2011 to November 2011 - Freelance Software Engineer. Android application for [comuni-chiamo.com](http://comuni-chiamo.com/) project. Server setup and tool integration for map2app.com
 - November 2010 to May 2011 - Java Software Engineer (telecommunications and web design) Innova-sa Athens, Greece. Web GUI design, telecommunication protocols implementation (SMPP), web service API, application server (JBoss) and database setup for a major mobile telecommunication client in Bulgaria.
