@@ -5,7 +5,7 @@ Hi, I am a professional software developer based in the beautiful city of Bologn
 ***
 
 ## Commercial work experience
-- April 2014 to present - Funding coinomi.com, a cryptocurrency wallet. Full time open source developer.
+- April 2014 to present - Funding coinomi.com, a cryptocurrency wallet. Full time open source developer, contributing Bitcoin and alt-coin projects like Electrum server, Bitcoinj, Peercoin Unity.
 - December 2013 to present - Resume consultant freelancing. Some projects include debugging of asynchronous code and websockets in node.js code. Open source contributions to Bitcoin projects (Stratum protocol, JSONRPC)
 - November 2011 to April 2014 - Senior software engineer and shareholder of [map2app.com](http://www.map2app.com/)
 Develpment of HTML 5 and Android mobile applications, server-side development and administration, data analytics.
