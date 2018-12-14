@@ -1,11 +1,12 @@
 # Dzegoutanis Giannis
 ##### Computer Scientist - Software Engineer
-Hi, I am a professional software developer based in the beautiful city of Bologna, Italy. I started programming when I was 15 years old and my first programming language was C. After all these years I developed a strong capacity to solve problems and to learn at blazing-fast speeds. In 2014 I became an open source developer in the field of cryptocurrencies. My email is <yiannis.dzegoutanis@gmail.com>, you can follow me on Twitter ([@erasmospunk](https://twitter.com/erasmospunk)), check out [my Github projects](https://github.com/erasmospunk) or visit [my blog](http://www.erasmospunk.com). Born in 1984.
+Hi, I am a professional software developer based in the beautiful country of Italy. I started programming when I was 15 years old and my first programming language was C. After all these years I developed a strong capacity to solve problems and to learn at blazing-fast speeds. In 2014 I became an open source developer in the field of cryptocurrencies. My email is <yiannis.dzegoutanis@gmail.com>, you can follow me on Twitter ([@erasmospunk](https://twitter.com/erasmospunk)), check out [my Github projects](https://github.com/erasmospunk).
 
 ***
 
 ## Commercial work experience
 - April 2014 to present - Funding coinomi.com, a cryptocurrency wallet. Full time open source developer, contributing Bitcoin and alt-coin projects like Electrum server, Bitcoinj, Peercoin Unity.
+- December 2014 to summer 2015 - Core developer for the NuBits project.
 - December 2013 to present - Resume consultant freelancing. Some projects include debugging of asynchronous code and websockets in node.js code. Open source contributions to Bitcoin projects (Stratum protocol, JSONRPC)
 - November 2011 to April 2014 - Senior software engineer and shareholder of [map2app.com](http://www.map2app.com/)
 Develpment of HTML 5 and Android mobile applications, server-side development and administration, data analytics.
